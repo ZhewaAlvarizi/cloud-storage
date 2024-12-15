@@ -312,18 +312,18 @@ sudo chown -R www-data:www-data nextcloud
 ```
 ### 5.1 buat akun admin nextcloud
 
-**Langkah 1: masuk ke web browser dengan pintah**
+**Langkah 1: masuk ke web browser dengan printah**
 ```
 192.168.100.71/nextcloud/
 ```
-sesuai dengan alam ip kalin masing-masing 
+sesuai dengan alamat ip kalin masing-masing 
 
 ini contoh dari web :
 ![Screenshot 2024-12-15 210931](https://github.com/user-attachments/assets/dc6ccd20-6432-43ec-aa79-fff8d2c4c553)
 
 **Langkah 2: masuk database ke nextcloud**
 
-isi database dan user yang telah dibuat di phpmyadmin sperti conton berikut :
+isi database dan user yang telah dibuat di phpmyadmin seperti conton berikut :
 
 ![Screenshot 2024-12-15 211235](https://github.com/user-attachments/assets/ac41712f-f7a2-44aa-8d28-4cd519578196)
 
